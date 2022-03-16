@@ -2,7 +2,7 @@ import { NextPage } from 'next';
 
 type Props = {};
 
-const SignUpSucces: NextPage = (props: Props) => {
+const SignUpSuccess: NextPage = (props: Props) => {
   return (
     <section className="sign-up-success mx-auto pt-md-179 pb-md-179 pt-150 pb-100">
       <div className="container-fluid">
@@ -133,4 +133,4 @@ const SignUpSucces: NextPage = (props: Props) => {
   );
 };
 
-export default SignUpSucces;
+export default SignUpSuccess;
