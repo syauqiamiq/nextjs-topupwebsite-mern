@@ -1,6 +1,6 @@
 import { NextPage } from 'next';
 
-const checkout: NextPage = () => {
+const Checkout: NextPage = () => {
   return (
     <section className="checkout mx-auto pt-md-100 pb-md-145 pt-30 pb-30">
       <div className="container-fluid">
@@ -97,4 +97,4 @@ const checkout: NextPage = () => {
   );
 };
 
-export default checkout;
+export default Checkout;

@@ -1,6 +1,6 @@
 import type { NextPage } from 'next';
 
-const index: NextPage = () => {
+const Index: NextPage = () => {
   return (
     <section className="detail pt-lg-60 pb-50">
       <div className="container-xxl container-fluid">
@@ -183,4 +183,4 @@ const index: NextPage = () => {
   );
 };
 
-export default index;
+export default Index;
